@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: f275732f1e329974ea1a36691ca3ade6
+timeCreated: 1517086795
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Box02
+    100004: Box05
+    100006: Box08
+    100008: Box09
+    100010: Box16
+    100012: Box17
+    100014: Box18
+    100016: Box19
+    100018: Box20
+    100020: Box23
+    100022: Box230
+    100024: Box234
+    100026: Box235
+    100028: Box238
+    100030: Box239
+    100032: Box242
+    100034: Box243
+    100036: Box244
+    100038: Box248
+    100040: Box249
+    100042: Box251
+    100044: Box252
+    100046: Box254
+    100048: Box255
+    100050: Box256
+    100052: Box257+
+    100054: Box263
+    100056: Box269
+    100058: Box270
+    100060: Box271
+    100062: Box272
+    100064: Box273
+    100066: Box275
+    100068: Box276
+    100070: Box278
+    100072: Box279
+    100074: Box280
+    100076: Box281
+    100078: Box282
+    100080: Box283
+    100082: Box284
+    100084: Box285
+    100086: Box286
+    100088: Box289
+    100090: Box290
+    100092: Box31
+    100094: Box38
+    100096: Box39
+    100098: Box42
+    100100: Box43
+    100102: Box44
+    100104: Cylinder01
+    100106: Cylinder02
+    100108: Cylinder03
+    100110: Cylinder04
+    100112: Cylinder05
+    100114: Cylinder07
+    100116: Cylinder08
+    100118: Cylinder09
+    100120: Cylinder10
+    100122: Cylinder11
+    100124: Cylinder12
+    100126: Cylinder13
+    100128: Cylinder14
+    100130: Cylinder15
+    100132: Cylinder17
+    100134: Cylinder18
+    100136: //RootNode
+    100138: Group03
+    100140: Group04
+    100142: Group06
+    100144: Group08
+    100146: Group09
+    100148: Group10
+    100150: Group11
+    100152: Object01
+    100154: Object02
+    100156: Object03
+    100158: Object04
+    100160: Object05
+    100162: Object06
+    100164: Object07
+    100166: Object08
+    100168: Object09
+    100170: Object10
+    100172: Object11
+    100174: Object16
+    100176: Object19
+    100178: Object21
+    100180: Object22
+    100182: Object23
+    100184: Plane01 1
+    100186: Plane01 15
+    100188: Plane01 1503
+    100190: Plane01 1506
+    100192: Plane01 1510
+    100194: Plane01 1513
+    100196: Plane01 1514
+    100198: Plane01 1515
+    100200: Plane01 1516
+    100202: Plane01 1518
+    100204: Plane01 1519
+    100206: Plane01 1520
+    100208: Plane01 1521
+    100210: Plane01 1522
+    100212: Plane01 1523
+    100214: Plane01 15ty
+    100216: Plane01 1h
+    100218: Plane01 1h02
+    100220: Plane01 1h03
+    100222: Plane01 1h04
+    100224: Plane01 1h05
+    100226: Plane01 1h06
+    100228: Plane01 1h07
+    100230: Plane01 1h08
+    100232: Plane01 1h09
+    400000: Box01
+    400002: Box02
+    400004: Box05
+    400006: Box08
+    400008: Box09
+    400010: Box16
+    400012: Box17
+    400014: Box18
+    400016: Box19
+    400018: Box20
+    400020: Box23
+    400022: Box230
+    400024: Box234
+    400026: Box235
+    400028: Box238
+    400030: Box239
+    400032: Box242
+    400034: Box243
+    400036: Box244
+    400038: Box248
+    400040: Box249
+    400042: Box251
+    400044: Box252
+    400046: Box254
+    400048: Box255
+    400050: Box256
+    400052: Box257+
+    400054: Box263
+    400056: Box269
+    400058: Box270
+    400060: Box271
+    400062: Box272
+    400064: Box273
+    400066: Box275
+    400068: Box276
+    400070: Box278
+    400072: Box279
+    400074: Box280
+    400076: Box281
+    400078: Box282
+    400080: Box283
+    400082: Box284
+    400084: Box285
+    400086: Box286
+    400088: Box289
+    400090: Box290
+    400092: Box31
+    400094: Box38
+    400096: Box39
+    400098: Box42
+    400100: Box43
+    400102: Box44
+    400104: Cylinder01
+    400106: Cylinder02
+    400108: Cylinder03
+    400110: Cylinder04
+    400112: Cylinder05
+    400114: Cylinder07
+    400116: Cylinder08
+    400118: Cylinder09
+    400120: Cylinder10
+    400122: Cylinder11
+    400124: Cylinder12
+    400126: Cylinder13
+    400128: Cylinder14
+    400130: Cylinder15
+    400132: Cylinder17
+    400134: Cylinder18
+    400136: //RootNode
+    400138: Group03
+    400140: Group04
+    400142: Group06
+    400144: Group08
+    400146: Group09
+    400148: Group10
+    400150: Group11
+    400152: Object01
+    400154: Object02
+    400156: Object03
+    400158: Object04
+    400160: Object05
+    400162: Object06
+    400164: Object07
+    400166: Object08
+    400168: Object09
+    400170: Object10
+    400172: Object11
+    400174: Object16
+    400176: Object19
+    400178: Object21
+    400180: Object22
+    400182: Object23
+    400184: Plane01 1
+    400186: Plane01 15
+    400188: Plane01 1503
+    400190: Plane01 1506
+    400192: Plane01 1510
+    400194: Plane01 1513
+    400196: Plane01 1514
+    400198: Plane01 1515
+    400200: Plane01 1516
+    400202: Plane01 1518
+    400204: Plane01 1519
+    400206: Plane01 1520
+    400208: Plane01 1521
+    400210: Plane01 1522
+    400212: Plane01 1523
+    400214: Plane01 15ty
+    400216: Plane01 1h
+    400218: Plane01 1h02
+    400220: Plane01 1h03
+    400222: Plane01 1h04
+    400224: Plane01 1h05
+    400226: Plane01 1h06
+    400228: Plane01 1h07
+    400230: Plane01 1h08
+    400232: Plane01 1h09
+    2300000: Box01
+    2300002: Box02
+    2300004: Box05
+    2300006: Box08
+    2300008: Box09
+    2300010: Box16
+    2300012: Box17
+    2300014: Box18
+    2300016: Box19
+    2300018: Box20
+    2300020: Box23
+    2300022: Box230
+    2300024: Box234
+    2300026: Box235
+    2300028: Box238
+    2300030: Box239
+    2300032: Box242
+    2300034: Box243
+    2300036: Box244
+    2300038: Box248
+    2300040: Box249
+    2300042: Box251
+    2300044: Box252
+    2300046: Box254
+    2300048: Box255
+    2300050: Box256
+    2300052: Box257+
+    2300054: Box263
+    2300056: Box269
+    2300058: Box270
+    2300060: Box271
+    2300062: Box272
+    2300064: Box273
+    2300066: Box275
+    2300068: Box276
+    2300070: Box278
+    2300072: Box279
+    2300074: Box280
+    2300076: Box281
+    2300078: Box282
+    2300080: Box283
+    2300082: Box284
+    2300084: Box285
+    2300086: Box286
+    2300088: Box289
+    2300090: Box290
+    2300092: Box31
+    2300094: Box38
+    2300096: Box39
+    2300098: Box42
+    2300100: Box43
+    2300102: Box44
+    2300104: Cylinder01
+    2300106: Cylinder02
+    2300108: Cylinder03
+    2300110: Cylinder04
+    2300112: Cylinder05
+    2300114: Cylinder07
+    2300116: Cylinder08
+    2300118: Cylinder09
+    2300120: Cylinder10
+    2300122: Cylinder11
+    2300124: Cylinder12
+    2300126: Cylinder13
+    2300128: Cylinder14
+    2300130: Cylinder15
+    2300132: Cylinder17
+    2300134: Cylinder18
+    2300136: Object01
+    2300138: Object02
+    2300140: Object03
+    2300142: Object04
+    2300144: Object05
+    2300146: Object06
+    2300148: Object07
+    2300150: Object08
+    2300152: Object09
+    2300154: Object10
+    2300156: Object11
+    2300158: Object16
+    2300160: Object19
+    2300162: Object21
+    2300164: Object22
+    2300166: Object23
+    2300168: Plane01 1
+    2300170: Plane01 15
+    2300172: Plane01 1503
+    2300174: Plane01 1506
+    2300176: Plane01 1510
+    2300178: Plane01 1513
+    2300180: Plane01 1514
+    2300182: Plane01 1515
+    2300184: Plane01 1516
+    2300186: Plane01 1518
+    2300188: Plane01 1519
+    2300190: Plane01 1520
+    2300192: Plane01 1521
+    2300194: Plane01 1522
+    2300196: Plane01 1523
+    2300198: Plane01 15ty
+    2300200: Plane01 1h
+    2300202: Plane01 1h02
+    2300204: Plane01 1h03
+    2300206: Plane01 1h04
+    2300208: Plane01 1h05
+    2300210: Plane01 1h06
+    2300212: Plane01 1h07
+    2300214: Plane01 1h08
+    2300216: Plane01 1h09
+    2300218: //RootNode
+    3300000: Box01
+    3300002: Box02
+    3300004: Box05
+    3300006: Box08
+    3300008: Box09
+    3300010: Box16
+    3300012: Box17
+    3300014: Box18
+    3300016: Box19
+    3300018: Box20
+    3300020: Box23
+    3300022: Box230
+    3300024: Box234
+    3300026: Box235
+    3300028: Box238
+    3300030: Box239
+    3300032: Box242
+    3300034: Box243
+    3300036: Box244
+    3300038: Box248
+    3300040: Box249
+    3300042: Box251
+    3300044: Box252
+    3300046: Box254
+    3300048: Box255
+    3300050: Box256
+    3300052: Box257+
+    3300054: Box263
+    3300056: Box269
+    3300058: Box270
+    3300060: Box271
+    3300062: Box272
+    3300064: Box273
+    3300066: Box275
+    3300068: Box276
+    3300070: Box278
+    3300072: Box279
+    3300074: Box280
+    3300076: Box281
+    3300078: Box282
+    3300080: Box283
+    3300082: Box284
+    3300084: Box285
+    3300086: Box286
+    3300088: Box289
+    3300090: Box290
+    3300092: Box31
+    3300094: Box38
+    3300096: Box39
+    3300098: Box42
+    3300100: Box43
+    3300102: Box44
+    3300104: Cylinder01
+    3300106: Cylinder02
+    3300108: Cylinder03
+    3300110: Cylinder04
+    3300112: Cylinder05
+    3300114: Cylinder07
+    3300116: Cylinder08
+    3300118: Cylinder09
+    3300120: Cylinder10
+    3300122: Cylinder11
+    3300124: Cylinder12
+    3300126: Cylinder13
+    3300128: Cylinder14
+    3300130: Cylinder15
+    3300132: Cylinder17
+    3300134: Cylinder18
+    3300136: Object01
+    3300138: Object02
+    3300140: Object03
+    3300142: Object04
+    3300144: Object05
+    3300146: Object06
+    3300148: Object07
+    3300150: Object08
+    3300152: Object09
+    3300154: Object10
+    3300156: Object11
+    3300158: Object16
+    3300160: Object19
+    3300162: Object21
+    3300164: Object22
+    3300166: Object23
+    3300168: Plane01 1
+    3300170: Plane01 15
+    3300172: Plane01 1503
+    3300174: Plane01 1506
+    3300176: Plane01 1510
+    3300178: Plane01 1513
+    3300180: Plane01 1514
+    3300182: Plane01 1515
+    3300184: Plane01 1516
+    3300186: Plane01 1518
+    3300188: Plane01 1519
+    3300190: Plane01 1520
+    3300192: Plane01 1521
+    3300194: Plane01 1522
+    3300196: Plane01 1523
+    3300198: Plane01 15ty
+    3300200: Plane01 1h
+    3300202: Plane01 1h02
+    3300204: Plane01 1h03
+    3300206: Plane01 1h04
+    3300208: Plane01 1h05
+    3300210: Plane01 1h06
+    3300212: Plane01 1h07
+    3300214: Plane01 1h08
+    3300216: Plane01 1h09
+    3300218: //RootNode
+    4300000: Box256
+    4300002: Box254
+    4300004: Box09
+    4300006: Box255
+    4300008: Box234
+    4300010: Box08
+    4300012: Cylinder17
+    4300014: Cylinder18
+    4300016: Cylinder04
+    4300018: Cylinder07
+    4300020: Box19
+    4300022: Plane01 1514
+    4300024: Plane01 1520
+    4300026: Plane01 1518
+    4300028: Plane01 1510
+    4300030: Plane01 1515
+    4300032: Plane01 1521
+    4300034: Plane01 1519
+    4300036: Plane01 1513
+    4300038: Plane01 1523
+    4300040: Plane01 1506
+    4300042: Box257+
+    4300044: Box286
+    4300046: Box05
+    4300048: Box16
+    4300050: Box17
+    4300052: Box20
+    4300054: Box18
+    4300056: Object11
+    4300058: Box23
+    4300060: Box230
+    4300062: Box39
+    4300064: Box38
+    4300066: Box31
+    4300068: Box42
+    4300070: Box43
+    4300072: Box44
+    4300074: Box235
+    4300076: Box238
+    4300078: Box239
+    4300080: Box243
+    4300082: Box242
+    4300084: Box244
+    4300086: Box248
+    4300088: Box252
+    4300090: Box249
+    4300092: Box251
+    4300094: Box263
+    4300096: Box269
+    4300098: Object19
+    4300100: Object21
+    4300102: Object23
+    4300104: Object22
+    4300106: Plane01 1h04
+    4300108: Plane01 1h05
+    4300110: Plane01 1h03
+    4300112: Plane01 1h08
+    4300114: Plane01 1h07
+    4300116: Plane01 1h06
+    4300118: Plane01 1516
+    4300120: Plane01 1522
+    4300122: Plane01 1
+    4300124: Cylinder01
+    4300126: Cylinder08
+    4300128: Cylinder03
+    4300130: Cylinder02
+    4300132: Cylinder09
+    4300134: Cylinder13
+    4300136: Cylinder10
+    4300138: Cylinder14
+    4300140: Cylinder05
+    4300142: Cylinder15
+    4300144: Cylinder11
+    4300146: Cylinder12
+    4300148: Object06
+    4300150: Plane01 1h02
+    4300152: Object04
+    4300154: Object03
+    4300156: Plane01 15
+    4300158: Plane01 1503
+    4300160: Plane01 1h09
+    4300162: Object05
+    4300164: Object09
+    4300166: Object01
+    4300168: Object10
+    4300170: Object07
+    4300172: Plane01 1h
+    4300174: Plane01 15ty
+    4300176: Box01
+    4300178: Box285
+    4300180: Box270
+    4300182: Box279
+    4300184: Box271
+    4300186: Box280
+    4300188: Box272
+    4300190: Box281
+    4300192: Box273
+    4300194: Box282
+    4300196: Box275
+    4300198: Box283
+    4300200: Box276
+    4300202: Box278
+    4300204: Box284
+    4300206: Object16
+    4300208: Box289
+    4300210: Object02
+    4300212: Object08
+    4300214: Box02
+    4300216: Box290
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
